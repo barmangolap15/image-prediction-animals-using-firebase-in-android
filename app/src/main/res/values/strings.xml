@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Prediction</string>
+    <string name="select_image">Select Image</string>
+    <string name="dots">.................</string>
+    <string name="here_animal_images_will_be_predict">Here animal images will be predict.</string>
+    <string name="the_result_will_be_shown_here">The result will be shown here:</string>
+</resources>
